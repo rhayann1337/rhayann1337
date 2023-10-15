@@ -22,7 +22,7 @@ Limits only exist if you let them exist.
  
 <p align="center"> 
  Visitors<br>
-  <img src="https://profile-counter.glitch.me/rhayann1337/count.svg"/>
+  <img src="https://profile-counter.glitch.me/rhayannbbs/count.svg"/>
   </p>
   
 <p align="center">
