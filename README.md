@@ -171,7 +171,6 @@ Limits only exist if you let them exist.
     </a>
 </p>
 
----
 
 #### Design
 ![Figma](https://img.shields.io/badge/-Figma-000?style=for-the-badge&logo=figma)
